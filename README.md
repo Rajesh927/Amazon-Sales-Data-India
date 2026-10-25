@@ -63,12 +63,6 @@ An end-to-end sales analysis project using Google Sheets to transform retail tra
 
 The dataset was provided for analysis. Raw transaction data should only be shared publicly with permission from its owner. This repository should contain only approved project materials.
 
-## Author
-
-**Rajesh Choudhari**
-
-Mini Project — Data Analytics & Business Intelligence
-
 ## Disclaimer
 
 This project analyses the available dataset for educational and business analytics purposes. Findings reflect the supplied records and are not official Amazon business results.
